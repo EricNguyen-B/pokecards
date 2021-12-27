@@ -6,13 +6,13 @@ const SHOP_DATA = [
       items: [
         {
           id: 1,
-          name: 'Sword & Shield - Brilliant Stars',
+          name: 'Brilliant Stars',
           imageUrl: 'https://cdn11.bigcommerce.com/s-ua4dd/images/stencil/1280x1280/products/50298/136394/pku80996_1__07837.1638313392.jpg?c=2',
           price: 115
         },
         {
           id: 2,
-          name: 'Sword & Shield - Fusion Strike',
+          name: 'Fusion Strike',
           imageUrl: 'https://www.pokemoncenter.com/products/images/P7737/699-81916/P7737_699-81916_01_full.jpg',
           price: 115
         },
@@ -30,7 +30,7 @@ const SHOP_DATA = [
         },
         {
           id: 5,
-          name: 'Sword & Shields - Vivid Voltage',
+          name: 'Vivid Voltage',
           imageUrl: 'https://m.media-amazon.com/images/I/71Yit4Tfn4L._AC_SL1500_.jpg',
           price: 125
         },
@@ -42,7 +42,7 @@ const SHOP_DATA = [
         },
         {
           id: 7,
-          name: 'Sun & Moon - Forbidden Light',
+          name: 'Forbidden Light',
           imageUrl: 'https://i.ibb.co/bLB646Z/red-beanie.png',
           price: 18
         },
