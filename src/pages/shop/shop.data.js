@@ -7,7 +7,7 @@ const SHOP_DATA = [
         {
           id: 1,
           name: 'Brilliant Stars',
-          imageUrl: 'https://cdn11.bigcommerce.com/s-ua4dd/images/stencil/1280x1280/products/50298/136394/pku80996_1__07837.1638313392.jpg?c=2',
+          imageUrl: 'https://www.pokemoncenter.com/products/images/P1414/141-11822/P1414_141-11822_01_full.jpg',
           price: 115
         },
         {
@@ -19,7 +19,7 @@ const SHOP_DATA = [
         {
           id: 3,
           name: 'Celebrations',
-          imageUrl: 'https://m.media-amazon.com/images/I/71WbvHF6uHL._AC_SL1500_.jpg',
+          imageUrl: 'https://www.pokemoncenter.com/products/images/P7677/290-80986/P7677_290-80986_01.jpg',
           price: 55
         },
         {
@@ -62,37 +62,37 @@ const SHOP_DATA = [
     },
     {
       id: 2,
-      title: 'Sneakers',
-      routeName: 'sneakers',
+      title: 'Individual Cards',
+      routeName: 'individual',
       items: [
         {
           id: 1,
           name: 'Adidas NMD',
-          imageUrl: 'https://i.ibb.co/0s3pdnc/adidas-nmd.png',
+          imageUrl: 'https://publish.one37pm.net/wp-content/uploads/2021/08/skyridge.jpg?fit=750%2C495',
           price: 220
         },
         {
           id: 2,
           name: 'Adidas Yeezy',
-          imageUrl: 'https://i.ibb.co/dJbG1cT/yeezy.png',
+          imageUrl: 'https://assets.dicebreaker.com/2000-neo-genesis-first-edition-holo-lugia-pokemon-card.jpg/BROK/resize/1200x1200%3E/format/jpg/quality/70/2000-neo-genesis-first-edition-holo-lugia-pokemon-card.jpg',
           price: 280
         },
         {
           id: 3,
           name: 'Black Converse',
-          imageUrl: 'https://i.ibb.co/bPmVXyP/black-converse.png',
+          imageUrl: 'https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:auto/h:auto/q:75/https://bleedingcool.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-07-at-9.13.58-PM.jpg',
           price: 110
         },
         {
           id: 4,
           name: 'Nike White AirForce',
-          imageUrl: 'https://i.ibb.co/1RcFPk0/white-nike-high-tops.png',
+          imageUrl: 'https://img.redbull.com/images/q_auto,f_auto/redbullcom/2017/02/01/65d11676-4808-4720-b7d1-eee692235c20/illustrator-pokemon-card',
           price: 160
         },
         {
           id: 5,
           name: 'Nike Red High Tops',
-          imageUrl: 'https://i.ibb.co/QcvzydB/nikes-red.png',
+          imageUrl: 'https://publish.one37pm.net/wp-content/uploads/2021/08/skyridge.jpg?fit=750%2C495',
           price: 160
         },
         {
@@ -117,31 +117,31 @@ const SHOP_DATA = [
     },
     {
       id: 3,
-      title: 'Jackets',
-      routeName: 'jackets',
+      title: 'Weekly Featured',
+      routeName: 'weekly',
       items: [
         {
           id: 1,
-          name: 'Black Jean Shearling',
-          imageUrl: 'https://i.ibb.co/XzcwL5s/black-shearling.png',
+          name: 'Black Jean',
+          imageUrl: 'https://assets.dicebreaker.com/pokemon-trading-card-booster-box.jpg/BROK/thumbnail/1200x1200/quality/100/pokemon-trading-card-booster-box.jpg',
           price: 125
         },
         {
           id: 2,
           name: 'Blue Jean Jacket',
-          imageUrl: 'https://i.ibb.co/mJS6vz0/blue-jean-jacket.png',
+          imageUrl: 'https://m.media-amazon.com/images/I/71xA3TNtDCL._AC_SL1000_.jpg',
           price: 90
         },
         {
           id: 3,
           name: 'Grey Jean Jacket',
-          imageUrl: 'https://i.ibb.co/N71k1ML/grey-jean-jacket.png',
+          imageUrl: 'https://pokevault.com/image/cache/catalog/201707/s6h-silver-lance-booster-box-2-500x500.jpg',
           price: 90
         },
         {
           id: 4,
           name: 'Brown Shearling',
-          imageUrl: 'https://i.ibb.co/s96FpdP/brown-shearling.png',
+          imageUrl: 'https://target.scene7.com/is/image/Target/GUEST_df4e926a-7a75-4c10-83bf-977fadf00c8b?wid=488&hei=488&fmt=pjpeg',
           price: 165
         },
         {
@@ -154,37 +154,37 @@ const SHOP_DATA = [
     },
     {
       id: 4,
-      title: 'Womens',
-      routeName: 'womens',
+      title: 'Collectibles',
+      routeName: 'collectibles',
       items: [
         {
           id: 1,
           name: 'Blue Tanktop',
-          imageUrl: 'https://i.ibb.co/7CQVJNm/blue-tank.png',
+          imageUrl: 'https://assets.dicebreaker.com/2000-neo-genesis-first-edition-holo-lugia-pokemon-card.jpg/BROK/resize/1200x1200%3E/format/jpg/quality/70/2000-neo-genesis-first-edition-holo-lugia-pokemon-card.jpg',
           price: 25
         },
         {
           id: 2,
           name: 'Floral Blouse',
-          imageUrl: 'https://i.ibb.co/4W2DGKm/floral-blouse.png',
+          imageUrl: 'https://assets.dicebreaker.com/2000-neo-genesis-first-edition-holo-lugia-pokemon-card.jpg/BROK/resize/1200x1200%3E/format/jpg/quality/70/2000-neo-genesis-first-edition-holo-lugia-pokemon-card.jpg',
           price: 20
         },
         {
           id: 3,
           name: 'Floral Dress',
-          imageUrl: 'https://i.ibb.co/KV18Ysr/floral-skirt.png',
+          imageUrl: 'https://assets.dicebreaker.com/2000-neo-genesis-first-edition-holo-lugia-pokemon-card.jpg/BROK/resize/1200x1200%3E/format/jpg/quality/70/2000-neo-genesis-first-edition-holo-lugia-pokemon-card.jpg',
           price: 80
         },
         {
           id: 4,
           name: 'Red Dots Dress',
-          imageUrl: 'https://i.ibb.co/N3BN1bh/red-polka-dot-dress.png',
+          imageUrl: 'https://assets.dicebreaker.com/2000-neo-genesis-first-edition-holo-lugia-pokemon-card.jpg/BROK/resize/1200x1200%3E/format/jpg/quality/70/2000-neo-genesis-first-edition-holo-lugia-pokemon-card.jpg',
           price: 80
         },
         {
           id: 5,
           name: 'Striped Sweater',
-          imageUrl: 'https://i.ibb.co/KmSkMbH/striped-sweater.png',
+          imageUrl: 'https://assets.dicebreaker.com/2000-neo-genesis-first-edition-holo-lugia-pokemon-card.jpg/BROK/resize/1200x1200%3E/format/jpg/quality/70/2000-neo-genesis-first-edition-holo-lugia-pokemon-card.jpg',
           price: 45
         },
         {
@@ -203,31 +203,31 @@ const SHOP_DATA = [
     },
     {
       id: 5,
-      title: 'Mens',
-      routeName: 'mens',
+      title: 'Starter Decks',
+      routeName: 'starters',
       items: [
         {
           id: 1,
           name: 'Camo Down Vest',
-          imageUrl: 'https://i.ibb.co/xJS0T3Y/camo-vest.png',
+          imageUrl: 'https://assets.dicebreaker.com/2000-neo-genesis-first-edition-holo-lugia-pokemon-card.jpg/BROK/resize/1200x1200%3E/format/jpg/quality/70/2000-neo-genesis-first-edition-holo-lugia-pokemon-card.jpg',
           price: 325
         },
         {
           id: 2,
           name: 'Floral T-shirt',
-          imageUrl: 'https://i.ibb.co/qMQ75QZ/floral-shirt.png',
+          imageUrl: 'https://assets.dicebreaker.com/2000-neo-genesis-first-edition-holo-lugia-pokemon-card.jpg/BROK/resize/1200x1200%3E/format/jpg/quality/70/2000-neo-genesis-first-edition-holo-lugia-pokemon-card.jpg',
           price: 20
         },
         {
           id: 3,
-          name: 'Black & White Longsleeve',
-          imageUrl: 'https://i.ibb.co/55z32tw/long-sleeve.png',
+          name: 'Black Longsleeve',
+          imageUrl: 'https://assets.dicebreaker.com/2000-neo-genesis-first-edition-holo-lugia-pokemon-card.jpg/BROK/resize/1200x1200%3E/format/jpg/quality/70/2000-neo-genesis-first-edition-holo-lugia-pokemon-card.jpgg',
           price: 25
         },
         {
           id: 4,
           name: 'Pink T-shirt',
-          imageUrl: 'https://i.ibb.co/RvwnBL8/pink-shirt.png',
+          imageUrl: 'https://assets.dicebreaker.com/2000-neo-genesis-first-edition-holo-lugia-pokemon-card.jpg/BROK/resize/1200x1200%3E/format/jpg/quality/70/2000-neo-genesis-first-edition-holo-lugia-pokemon-card.jpg',
           price: 25
         },
         {
