@@ -1,7 +1,7 @@
 import React from 'react';
 
 import MenuItem from '../menu-item/menu-item.component';
-import collectibles from '../../images/collectibles.jpg';
+
 
 import './directory.styles.scss';
 
